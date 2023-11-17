@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Skilled Front-end Developer with 4 years of experience in designing, developing and maintaining front-end web applications.<br>🌱 I’m currently learning Next.js, Node.js, Nest.js<br>💬 Shoot me an email or add me on LinkedIn and Instagram
+🔭 I’m Skilled Front-end Developer with 4 years of experience in designing, developing and maintaining front-end web applications.<br>🌱 I’m currently learning Node.js, Nest.js<br>💬 Shoot me an email or add me on LinkedIn and Instagram
 
 
 ## 🌐 Socials:
