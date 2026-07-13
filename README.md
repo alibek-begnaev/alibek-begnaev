@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m Skilled Front-end Developer with 4 years of experience in designing, developing and maintaining front-end web applications.<br>🌱 I’m currently learning Node.js, Nest.js<br>💬 Shoot me an email or add me on LinkedIn and Instagram
+🔭 I am a result-oriented Technical Team Lead and Senior Full-Stack Engineer with a strong track record of engineering scalable, high-performance web applications and robust FinTech solutions.
+Beyond delivering clean, optimized code across the entire stack (NestJS, React, TypeScript), I bring practical experience in architectural leadership—from managing microservices and real-time data flows to orchestrating complex, low-latency financial integrations. I excel at aligning cross-functional teams (developers, analysts, and QA) to build secure systems, minimize technical debt, and drive product value.
+💻 Technical Skills:
+- Front-end: ReactJS, Next.js, Angular, JavaScript (ES6+), TypeScript, SASS, Tailwind CSS, Material UI (MUI)
+- Back-end & Architecture: Node.js, NestJS, Express.js, Microservices, Event-Driven Architecture (NATS)
+- Databases: MongoDB, PostgreSQL
+- DevOps & Infrastructure: Nginx, PM2, CI/CD, Git, GitHub, GitLab
+- Methodologies & Tools: Agile/Scrum, Team Leadership & Mentorship, RESTful APIs, WebSockets
 
 
 ## 🌐 Socials:
